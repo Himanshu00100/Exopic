@@ -1,0 +1,138 @@
+*{
+    margin:0;
+    padding:0;
+}
+.header{
+    height:131.200px;
+    background-color:#f7f7f7;
+       
+}
+body{
+    background-color:#f7f7f7;
+}
+.insidediv{
+    width:100%;
+    height:100%;
+}
+.navbar{
+    width:1110px;
+    height:100%;
+}
+.logodiv img{
+    height:15.54px;
+}
+
+.key{
+    transition:all 200ms;
+}
+
+.keys{
+    
+    width:500px;
+}
+.keys .key:hover{
+    color:orange;
+}
+.key{
+    text-decoration:none;
+    color:black;
+}
+
+/* hero 1 from here */
+
+.hero1{
+    width:100%;
+    height:513.580px;
+    margin:100px 0px;
+    padding:0px 195px;
+} 
+
+.hero1content{
+    width:50%;
+    height:auto;
+    
+}
+.hero1img{
+    width:540px;
+    
+}
+.hero1 img{
+    width:100%;
+}
+.hero1 h4{
+    color:orange;
+}
+.hero1 h1{
+    font-size:60px;
+    line-height:70px;
+    font-weight:700;
+    color:#112e41;
+}
+
+.hero1 p{
+    margin:50px 0px;
+    color:#6c6c6f;
+}
+.hero1 a{
+    
+    text-decoration:none;
+    color:white;
+    background-color:orange;
+    padding:15px 30px;
+    margin-top:20px;
+    border-radius: 25px;
+    
+}
+
+/* about section from here */
+
+.about{
+    height:auto;
+
+}
+
+
+/* special section */
+
+.special{
+    height:643px;
+    padding:0px 195px;
+    
+} 
+.special .container1{
+    height:100%;
+    padding:50px 0px;
+}
+.special h1{
+    color:#112e41;
+    font-size:42px;
+    font-weight: 700;
+    margin-bottom:60px;
+}
+
+
+.cardbox div{
+    width:250.400px;
+    height:366px;
+    /* padding:40px 25px; */
+
+}
+/* /creative section  */
+
+
+
+.creative .outer{
+    height:auto;
+}
+.creative .one{
+    padding-left: 195px;
+}
+.creative h1{
+    margin-bottom:80px;
+    font-weight:700;
+}
+.creative h3{
+    
+    font-weight:700;
+}
+
